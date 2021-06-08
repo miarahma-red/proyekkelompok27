@@ -1,0 +1,20 @@
+@media all and (max-width: 1000px) {
+    .title {
+        text-align: center;
+    }
+
+    .image {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+  
+}
+
+@media all and (max-width: 670px) {
+    p {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+}
