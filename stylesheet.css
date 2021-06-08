@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Lucida Sans;
+    background-color:honeydew;
+    width: 100%;
+}
+
+.title {
+    font-family: Georgia;
+    color:forestgreen;
+    margin-left: 40px;
+}
+
+.content {
+    width: 100%;
+    font-size: 15px;
+    text-align: justify;
+}
+
+.content p {
+    width: 50%;
+    float: left;
+    line-height: 20px;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.bottom-image {
+    width: 100%;
+}
+
+.image {
+    float: left;
+    text-align: center;
+    width: 50%;
+}
